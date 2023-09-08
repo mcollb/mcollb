@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on -> Something cool<br>🌱 I’m currently learning -> JavaScript and React<br>💬 Ask me about -> some Java problem<br>📬 How to reach me -> miquelcollb@gmail.com<br>🎯 Ongoing project -> Challenge.app<br>📚 Currently studying -> Full Stack Web (Enfoca't)<br>⚡ Fun fact -> If I'm not programming, I listen music or play chess.
+🔭 I’m currently working on -> Something cool<br>🌱 I’m currently learning -> JavaScript and React<br>💬 Ask me about -> Some Java problem<br>📬 How to reach me -> miquelcollb@gmail.com<br>🎯 Ongoing project -> Challenge.app<br>📚 Currently studying -> Full Stack Web (Enfoca't)<br>⚡ Fun fact -> If I'm not programming, I listen music or play chess.
 
 
 ## 🌐 Socials:
